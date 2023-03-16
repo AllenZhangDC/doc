@@ -1,6 +1,6 @@
 ---
-slug: long-blog-post
-title: Allen First blog
+slug: allen-blog-post1
+title: Allen welcome new user
 authors: Allen
 tags: [Allen, docusaurus]
 ---
